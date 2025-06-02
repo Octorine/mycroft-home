@@ -41,8 +41,6 @@
     libsecret
     keepassxc
     pijul
-    nnn # terminal file manager
-
 
     # networking tools
     mtr # A network diagnostic tool
@@ -58,11 +56,6 @@
     file
     which
     gnupg
-
-    # nix related
-    #
-    # it provides the command `nom` works just like `nix`
-    # with more details log output
 
     # productivity
     glow # markdown previewer in terminal
