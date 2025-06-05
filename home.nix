@@ -38,7 +38,6 @@
     material-maker
     sane-backends
     simple-scan
-    libsecret
     keepassxc
     pijul
 
